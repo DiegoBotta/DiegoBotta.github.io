@@ -1,0 +1,53 @@
+div p {
+  font-weight: lighter; }
+
+div h5 {
+  text-align: center;
+  margin: 0px;
+  padding: 0px; }
+
+.sponsors {
+  text-transform: uppercase; }
+
+.sponsors__subtitle {
+  font-weight: lighter;
+  font-size: 25px; }
+
+.card__background1 {
+  background-image: linear-gradient(to top, #b7f42c, #89fb6b, #59ff9c, #21ffc7, #00ffe9); }
+
+.card__background--1 {
+  background-image: radial-gradient(circle, #2cf4d1, #57fdb0, #8cff86, #c4ff56, #ffff12); }
+
+.card__background--2 {
+  background-image: linear-gradient(to left bottom, #00ffc8, #6fffb2, #9fff9f, #c7ff91, #eaff89); }
+
+.card__background--3 {
+  background-image: linear-gradient(to right bottom, #ffe900, #b5f85a, #69fd9d, #00fbd7, #00f4ff); }
+
+.Red-font {
+  color: Red; }
+
+.Green-font {
+  color: Green; }
+
+.Yellow-font {
+  color: Yellow; }
+
+.ranking-1 {
+  font-size: 12px; }
+
+.ranking-2 {
+  font-size: 24px; }
+
+.ranking-3 {
+  font-size: 36px; }
+
+.background--primerPuesto {
+  background-color: #57fdb0; }
+
+.background--segundoPuesto {
+  background-color: #eaff89; }
+
+.background--tercerPuesto {
+  background-color: #00f4ff; }
